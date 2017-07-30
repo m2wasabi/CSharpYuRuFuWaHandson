@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_02_anonymous-methods", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_03_yield", "CS2_03_yield\CS2_03_yield.csproj", "{BEC3BF87-37EF-4676-B3E6-632E4D33AB91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_04_partial-type", "CS2_04_partial-type\CS2_04_partial-type.csproj", "{0B922530-5930-445E-9410-DC4D40EE2DB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BEC3BF87-37EF-4676-B3E6-632E4D33AB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC3BF87-37EF-4676-B3E6-632E4D33AB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC3BF87-37EF-4676-B3E6-632E4D33AB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B922530-5930-445E-9410-DC4D40EE2DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B922530-5930-445E-9410-DC4D40EE2DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B922530-5930-445E-9410-DC4D40EE2DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B922530-5930-445E-9410-DC4D40EE2DB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
