@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_06_null-conditional-ope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_07_restricting-accessor-accessibility", "CS2_07_restricting-accessor-accessibility\CS2_07_restricting-accessor-accessibility.csproj", "{95FCC5C7-F1FD-427B-A13E-3766C72F5AEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_08_null-conditional-operator", "CS2_08_null-conditional-operator\CS2_08_null-conditional-operator.csproj", "{73B9E5D5-7CA7-432E-B58E-02657A2013B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{95FCC5C7-F1FD-427B-A13E-3766C72F5AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95FCC5C7-F1FD-427B-A13E-3766C72F5AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95FCC5C7-F1FD-427B-A13E-3766C72F5AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B9E5D5-7CA7-432E-B58E-02657A2013B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B9E5D5-7CA7-432E-B58E-02657A2013B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B9E5D5-7CA7-432E-B58E-02657A2013B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B9E5D5-7CA7-432E-B58E-02657A2013B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
