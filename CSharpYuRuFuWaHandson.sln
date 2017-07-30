@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_14_fixed-size-buffers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_15_using-variance-in-delegates", "CS2_15_using-variance-in-delegates\CS2_15_using-variance-in-delegates.csproj", "{13999F54-D86C-403D-BBAA-98896368EEB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_01_var", "CS3_01_var\CS3_01_var.csproj", "{42F82716-9D03-49C9-88E7-EA0E02F99173}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{13999F54-D86C-403D-BBAA-98896368EEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13999F54-D86C-403D-BBAA-98896368EEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13999F54-D86C-403D-BBAA-98896368EEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F82716-9D03-49C9-88E7-EA0E02F99173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F82716-9D03-49C9-88E7-EA0E02F99173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F82716-9D03-49C9-88E7-EA0E02F99173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F82716-9D03-49C9-88E7-EA0E02F99173}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
