@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_09_restricting-accessor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_10_namespace-alias-qualifer", "CS2_10_namespace-alias-qualifer\CS2_10_namespace-alias-qualifer.csproj", "{16EF6400-9FB6-4661-A6E2-5C9038D69188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2_12_preprocessor-pragma", "CS2_12_preprocessor-pragma\CS2_12_preprocessor-pragma.csproj", "{E950289D-3F3E-475D-AB04-20452CD432A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{16EF6400-9FB6-4661-A6E2-5C9038D69188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EF6400-9FB6-4661-A6E2-5C9038D69188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EF6400-9FB6-4661-A6E2-5C9038D69188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E950289D-3F3E-475D-AB04-20452CD432A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E950289D-3F3E-475D-AB04-20452CD432A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E950289D-3F3E-475D-AB04-20452CD432A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E950289D-3F3E-475D-AB04-20452CD432A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
