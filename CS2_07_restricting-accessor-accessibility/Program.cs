@@ -4,6 +4,10 @@ namespace CS2_07_restricting_accessor_accessibility
 {
     class Program
     {
+        /// <summary>プロパティの get/set 個別のアクセスレベル</summary>
+        /// <remarks>プロパティの get アクセサーと set で異なるアクセス レベルを設定できる。
+        /// https://docs.microsoft.com/ja-jp/dotnet/csharp/programming-guide/nullable-types/
+        /// </remarks>
         static void Main(string[] args)
         {
             A a = new A();
