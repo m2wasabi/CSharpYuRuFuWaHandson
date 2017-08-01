@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_04_extension-methods", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_05_lambda-expressions", "CS3_05_lambda-expressions\CS3_05_lambda-expressions.csproj", "{6CCF3858-35CD-42AA-A6DF-7193571D5D46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_06_LINQ", "CS3_06_LINQ\CS3_06_LINQ.csproj", "{8CA099AF-A660-40E6-9D85-7AE6D68E6FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{6CCF3858-35CD-42AA-A6DF-7193571D5D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CCF3858-35CD-42AA-A6DF-7193571D5D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CCF3858-35CD-42AA-A6DF-7193571D5D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA099AF-A660-40E6-9D85-7AE6D68E6FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA099AF-A660-40E6-9D85-7AE6D68E6FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA099AF-A660-40E6-9D85-7AE6D68E6FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA099AF-A660-40E6-9D85-7AE6D68E6FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
