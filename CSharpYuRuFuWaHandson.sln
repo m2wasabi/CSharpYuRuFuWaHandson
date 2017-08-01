@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_08_object-and-collectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_09_partial-method", "CS3_09_partial-method\CS3_09_partial-method.csproj", "{98CEEE74-19B9-4640-AEE6-54DEDF55D774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_01_dynamic-types", "CS4_01_dynamic-types\CS4_01_dynamic-types.csproj", "{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{98CEEE74-19B9-4640-AEE6-54DEDF55D774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98CEEE74-19B9-4640-AEE6-54DEDF55D774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98CEEE74-19B9-4640-AEE6-54DEDF55D774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
