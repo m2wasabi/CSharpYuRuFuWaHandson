@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_09_partial-method", "CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_01_dynamic-types", "CS4_01_dynamic-types\CS4_01_dynamic-types.csproj", "{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_02_optional-arguments", "CS4_02_optional-arguments\CS4_02_optional-arguments.csproj", "{DD1138A7-A019-41FA-A3FF-01646761F65C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC1DFFC4-B813-4B82-953F-9078B93CB3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1138A7-A019-41FA-A3FF-01646761F65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1138A7-A019-41FA-A3FF-01646761F65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1138A7-A019-41FA-A3FF-01646761F65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1138A7-A019-41FA-A3FF-01646761F65C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
