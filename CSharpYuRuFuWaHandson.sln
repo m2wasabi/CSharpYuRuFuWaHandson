@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_01_dynamic-types", "CS4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_02_optional-arguments", "CS4_02_optional-arguments\CS4_02_optional-arguments.csproj", "{DD1138A7-A019-41FA-A3FF-01646761F65C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_03_named-arguments", "CS4_03_named-arguments\CS4_03_named-arguments.csproj", "{F973471B-B272-403E-83AE-BC22B88BAE66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{DD1138A7-A019-41FA-A3FF-01646761F65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD1138A7-A019-41FA-A3FF-01646761F65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD1138A7-A019-41FA-A3FF-01646761F65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F973471B-B272-403E-83AE-BC22B88BAE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F973471B-B272-403E-83AE-BC22B88BAE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F973471B-B272-403E-83AE-BC22B88BAE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F973471B-B272-403E-83AE-BC22B88BAE66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
