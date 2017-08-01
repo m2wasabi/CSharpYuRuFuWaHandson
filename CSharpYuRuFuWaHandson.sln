@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_06_LINQ", "CS3_06_LINQ\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_07_anonymous-types", "CS3_07_anonymous-types\CS3_07_anonymous-types.csproj", "{716B826B-92EE-4CEF-A658-650783E40D50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3_08_object-and-collection-initializers", "CS3_08_object-and-collection-initializers\CS3_08_object-and-collection-initializers.csproj", "{D9B0B005-24C5-45F9-8980-DD1691741422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{716B826B-92EE-4CEF-A658-650783E40D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{716B826B-92EE-4CEF-A658-650783E40D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{716B826B-92EE-4CEF-A658-650783E40D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B0B005-24C5-45F9-8980-DD1691741422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B0B005-24C5-45F9-8980-DD1691741422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B0B005-24C5-45F9-8980-DD1691741422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B0B005-24C5-45F9-8980-DD1691741422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
